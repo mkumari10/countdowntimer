@@ -1,0 +1,79 @@
+.App-header > h2{
+  color:hsl(0, 0%, 100%);
+  text-align: center;
+  text-transform: uppercase;
+  margin: 4em 0px;
+  font-family: monospace;
+  letter-spacing: 6px;
+}
+
+.App-content{
+  display:flex;
+  flex-direction: row;
+  color:white;
+  justify-content: center;
+  margin: 6.7em 0px;
+  text-align: center;
+}
+
+.social-block{
+  background-image: url(images/pattern-hills.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* color:hsl(0, 0%, 100%);
+  font-size:20px; */
+    position: absolute;
+    bottom: 0px;
+    padding: 3em;
+    padding-top: 7em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: -webkit-fill-available;
+}
+
+.socialicon:hover{
+  cursor: pointer;
+  color:hsl(345, 95%, 68%) !important;
+}
+
+.befsemi::before{
+  content:'';
+  background-color: hsl(234, 17%, 12%);
+  width: 7px;
+  height: 12px;
+  overflow: hidden;
+  position: absolute;
+  left: 0px;
+  top:50%;
+  border-top-right-radius: 50em;
+  border-bottom-right-radius: 50em;
+}
+
+.befsemi::after{
+  content:'';
+  background-color: hsl(234, 17%, 12%);
+  width: 7px;
+  height: 12px;
+  overflow: hidden;
+  position: absolute;
+  right: 0px;
+  top:50%;
+  border-top-left-radius: 50em;
+  border-bottom-left-radius: 50em;
+}
+
+.line{
+  position: absolute;
+  left: 7px;
+  top: 31%;
+  width: 89%;
+  border-width: 3.3px;
+  background-color: transparent;
+  border-style: inset;
+  border-bottom: none;
+  border-right: none;
+  border-lefT: none;
+  opacity: 0.1;
+  box-shadow: 0px -1px 1px black;
+}
