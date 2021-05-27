@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/countdowntimer/static/css/main.1c497a02.chunk.css",
+    "main.js": "/countdowntimer/static/js/main.353e80e2.chunk.js",
+    "main.js.map": "/countdowntimer/static/js/main.353e80e2.chunk.js.map",
+    "runtime-main.js": "/countdowntimer/static/js/runtime-main.25b4f38e.js",
+    "runtime-main.js.map": "/countdowntimer/static/js/runtime-main.25b4f38e.js.map",
+    "static/js/2.59ce59cd.chunk.js": "/countdowntimer/static/js/2.59ce59cd.chunk.js",
+    "static/js/2.59ce59cd.chunk.js.map": "/countdowntimer/static/js/2.59ce59cd.chunk.js.map",
+    "static/js/3.dde0814a.chunk.js": "/countdowntimer/static/js/3.dde0814a.chunk.js",
+    "static/js/3.dde0814a.chunk.js.map": "/countdowntimer/static/js/3.dde0814a.chunk.js.map",
+    "index.html": "/countdowntimer/index.html",
+    "static/css/main.1c497a02.chunk.css.map": "/countdowntimer/static/css/main.1c497a02.chunk.css.map",
+    "static/js/2.59ce59cd.chunk.js.LICENSE.txt": "/countdowntimer/static/js/2.59ce59cd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/countdowntimer/static/media/bg-stars.166881a1.svg",
+    "static/media/App.css": "/countdowntimer/static/media/pattern-hills.815d688f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b4f38e.js",
+    "static/js/2.59ce59cd.chunk.js",
+    "static/css/main.1c497a02.chunk.css",
+    "static/js/main.353e80e2.chunk.js"
+  ]
+}
